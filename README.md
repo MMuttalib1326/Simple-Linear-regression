@@ -1,0 +1,2 @@
+# Simple-Linear-regression
+What is simple linear regression in machine learning? Image result for simple linear regression in machine learning Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. The red line in the above graph is referred to as the best fit straight line.
